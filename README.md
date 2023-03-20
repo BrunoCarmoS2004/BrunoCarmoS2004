@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😎👊, I'm Bruno do Carmo Souza</h1>
 <h3 align="center">I study Software Engeneering</h3>
 
-- 🔭 I’m currently **Study Software Engeneering in Brazil**
+- 🔭 I’m currently **Studing Software Engeneering in Brazil**
 
 - 🌱 I’m currently learning **Software Engeneer**
 
