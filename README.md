@@ -2,14 +2,10 @@
 <h3 align="center">I study Software Engeneering</h3>
 
 - 🔭 I’m currently **Studing Software Engeneering in Brazil**
-- 
-- 🌱 I’m currently learning **Software Engeneer**
 
-- 💬 Ask me about **Enthusiastic of Programming and fast learning**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **Brunodocarmosouza@edu.unifil.br or Bruno2000bruno2000@gmail.com**
-
-- ⚡ Fun fact **I like Strogonoff with Shoestring Crips**
 
 ## My Skills
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
@@ -30,3 +26,4 @@
 <a href="https://instagram.com/https://instagram.com/bruno_carmo_e?igshid=zddkntz intm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/bruno_carmo_e?igshid=zddkntz intm=" height="30" width="40" /></a>
 <a href="https://discord.gg/C-137#0890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C-137#0890" height="30" width="40" /></a>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
