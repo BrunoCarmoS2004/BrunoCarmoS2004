@@ -11,9 +11,10 @@
 
 ## My Skills
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
+
 
 #### Workstation Tools:
 <img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white"/>
@@ -28,4 +29,5 @@
 <a href="https://instagram.com/https://instagram.com/bruno_carmo_e?igshid=zddkntz intm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/bruno_carmo_e?igshid=zddkntz intm=" height="30" width="40" /></a>
 <a href="https://discord.gg/C-137#0890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C-137#0890" height="30" width="40" /></a>
 </p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={BrunoCarmoS2004}"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
