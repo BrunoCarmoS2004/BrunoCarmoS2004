@@ -30,5 +30,4 @@
 <a href="https://instagram.com/https://instagram.com/bruno_carmo_e?igshid=zddkntz intm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/bruno_carmo_e?igshid=zddkntz intm=" height="30" width="40" /></a>
 <a href="https://discord.gg/C-137#0890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C-137#0890" height="30" width="40" /></a>
 </p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={brunoCarmoS2004}"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
