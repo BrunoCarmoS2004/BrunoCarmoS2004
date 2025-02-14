@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **Brunodocarmosouza@edu.unifil.br or Bruno2000bruno2000@gmail.com**
+- 📫 How to reach me **brunodocarmosouza@edu.unifil.br or bruno2000bruno2000@gmail.com**
 
 ## My Skills
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
