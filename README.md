@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **Studing Software Engeneering in Brazil**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** and **Flutter**
 
 - 📫 How to reach me **brunodocarmosouza@edu.unifil.br or bruno2000bruno2000@gmail.com**
 
